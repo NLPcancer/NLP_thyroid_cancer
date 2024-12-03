@@ -38,6 +38,6 @@ pip install -r requirements.txt
 ## Clinical notes
 The operation records and pathology reports for 35 pseudo cases could be found in the folder "Clinical note".
 
-The TCGA pathology reports (50 for few-shot prompting and 289 for validation) could be found in the Genomic Data Commons data portal of National Cancer Institute (<a href="https://portal.gdc.cancer.gov/projects/TCGA-THCA">link</a>)
+The TCGA pathology reports (50 for few-shot prompting and 289 for validation) could be found in the Genomic Data Commons data portal of National Cancer Institute (<a href="https://portal.gdc.cancer.gov/projects/TCGA-THCA">link</a>).
 
 
