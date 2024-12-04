@@ -42,6 +42,8 @@ The TCGA pathology reports (50 for few-shot prompting and 289 for validation) co
 
 ## Prompt to LLM
 The Python scripts which include the prompts to LLMs could be found in the folder "Script".
+By default, Gemma 2 9B Instruct model is demonstrated in the scripts.
+
 
 ## Enquiry
 For any enquiry, please contact Dr. Carlos Wong (carloswong@d24h.hk) or Laboratory of Data Discovery for Health (D²4H) (info@d24h.hk).
