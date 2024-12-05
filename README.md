@@ -1,24 +1,14 @@
 # Annotation-guided NLP models for thyroid cancer staging and risk level classification using large language models
-This page is to provide the technical details for the article "Annotation-guided NLP models for thyroid cancer staging and risk level classification using large language models", which aims to provide a named-entitly framework about development of annotation guideline, conducting data annotation, ground-truth labelling, extraction disease information using open source Large Language Models (LLMs) by using different types of prompt strategies and classify ATA risk and AJCC 8th edition cancer staging using pre-written classification rules. The named-entity framework is evaluated by using different LLM strategies with ensemble-like majority voting approach.
+This page is to provide the technical details for the article "Annotation-guided NLP models for thyroid cancer staging and risk level classification using large language models", which aims to provide a named-entitly framework about development of annotation guideline, conducting data annotation, ground-truth labelling, extraction disease information using open source Large Language Models (LLMs) by using different types of prompt strategies and classify ATA risk and AJCC 8<sup>th</sup> edition cancer staging using pre-written classification rules. The named-entity framework is evaluated by using different LLM strategies with ensemble-like majority voting approach.
 
 ![alt text](image/flow.jpg)
 
 ## Requirement
+### Installation of BRAT rapid annotation tool
+Download and install BRAT rapid annotation tool (<a href="https://brat.nlplab.org/installation.html">link</a>).
+
 ### Installation of Ollama
-Download and install Ollama according to your operation system.
-
-#### MacOS
-<a href="https://ollama.com/download/Ollama-darwin.zip">Download</a>
-
-#### Windows
-<a href="https://ollama.com/download/OllamaSetup.exe">Download</a>
-
-#### Linux
-```sh
-curl -fsSL https://ollama.com/install.sh | sh
-```
-
-Check out more at the Ollama offical website (<a href="https://ollama.com/">link</a>).
+Download and install Ollama according to your operation system (<a href="https://ollama.com/download">link</a>).
 
 ### Large Language Models via Ollama
 The list of Ollama LLM models used in the study is listed in 'model_list.txt'.
@@ -37,10 +27,10 @@ Install the required python libraries through 'requirement.txt'.
 pip install -r requirements.txt
 ```
 
-## Clinical notes
+## Data source (clinical notes)
 The operation records and pathology reports for 35 pseudo cases could be found in the folder "sample".
 
-The TCGA pathology reports (50 for few-shot prompting and 289 for validation) could be found in the Genomic Data Commons data portal of National Cancer Institute (<a href="https://portal.gdc.cancer.gov/projects/TCGA-THCA">link</a>).
+The TCGA pathology reports (50 for developing different prompting strategies and 289 for validation) could be found in the Genomic Data Commons data portal of National Cancer Institute (<a href="https://portal.gdc.cancer.gov/projects/TCGA-THCA">link</a>).
 
 ## Data Annotation
 The annotation guideline was co-developed by endocrine surgeons and researchers, and could be found in the folder "annotation".
@@ -48,9 +38,11 @@ The annotation guideline was co-developed by endocrine surgeons and researchers,
 Data annotation was performed by two independent annotators, who have experiences in clinical research.
 The annotation was conducted by using BRAT rapid annotation tool (<a href="https://brat.nlplab.org/">link</a>).
 
+A step-by-step guide for data annotation is provided in the folder "annotation".
 
 ## Extraction of data from clinical notes using LLMs
 The Python scripts for extraction of disease information from clinical notes could be found in the folder "scripts".
+
 Eight prompting strategies have been proposed, and their corresponding file names of the script are as follow:
 | Prompting strategies  | File name |
 | ------------- | ------------- |
@@ -64,6 +56,7 @@ Eight prompting strategies have been proposed, and their corresponding file name
 | COT and few-shot prompting with part of annotated data  | cot_fewshot_part_data.py  |
 
 By default, Gemma 2 9B Instruct model is demonstrated in the scripts.
+
 Any model could be chosen by changing the model name in the script file.
 ```sh
 model = OllamaLLM(model="gemma2:9b-instruct-fp16",
