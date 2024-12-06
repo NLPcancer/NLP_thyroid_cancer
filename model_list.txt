@@ -1,6 +1,8 @@
 #This file provides the name and corresponding hash string of Large Language Models used in Ollama for generating outputs.
 
-#Mistral 7B Instruct v0.3 FP16 - 7334da3db4d2
-#Llama 3.1 8B Instruct FP16- 4aacac419454
-#Gemma 2 9B Instruct FP16 - 28e6684b0850
-#Qwen 2.5 7B Instruct FP16 - 59805ce4a404
+#Mistral 7B Instruct v0.3: mistral:7b-instruct-fp16, 7334da3db4d2
+#Llama 3.1 8B Instruct: llama3.1:8b-instruct-fp16, 4aacac419454
+#Gemma 2 9B Instruct: gemma2:9b-instruct-fp16, 28e6684b0850
+#Qwen 2.5 7B Instruct FP16: qwen2.5:7b-instruct-fp16, 59805ce4a404
+
+#For example, to pull (download) the Gemma 2 9B Instruct, run "ollama pull gemma2:9b-instruct-fp16".
