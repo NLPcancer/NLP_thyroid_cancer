@@ -1,0 +1,29 @@
+F/64Y  
+Date Requested: 03/08/2024 
+ 
+Date Arrived: 03/08/2024 
+ 
+SPECIMEN(S): 
+  Left thyroid, resection 
+GROSS EXAMINATION: 
+ (Specimen received in formalin) 
+ 'Left thyroid'. Specimen consists of the left thyroid lobe, the isthmus and pyramidal lobe, weighing  11 g. The left thyroid lobe measures 40 x 20 x 20 mm. The isthmus and the pyramidal lobe measures 50 x 15 x 5 mm. 
+ A soft, tan-coloured nodule with circumscribed border is noted in the lower pole of the thyroid. The nodule measures 25 x 15 x 15 mm. It is close to the thyroid surface, and more than 5 mm from the isthmic margin. 
+ The anterior thyroid surface is inked blue, the posterior surface is inked green. 
+ Total 7 blocks. 
+ (1) Isthmus margin, shaved section. 
+ (2) Background thyroid tissue. 
+ (3)-(7) The lower pole nodule, entirely embedded. 
+ 
+MICROSCOPIC EXAMINATION: 
+ The thyroid nodule shows circumscribed border with a very thin fibrous capsule and well demarcated from the surrounding thyroid parenchyma. The nodule is composed of microfollicles, which are lined by atypical follicular cells with irregular and folded nuclear membrane, ground glass chromatin pattern and small nucleoli (nuclear score 2). Nuclear atypia is mild, and mitotic count is less than 1 per 2 square mm. 
+ There is no obvious nuclear pseudoinclusion. No papillary growth pattern, capsular invasion, vascular invasion or tumour necrosis is identified. 
+ The tumour cells express the following immunophenotype: 
+ - CD56   - Positive 
+ - CK19   - Negative 
+ - HBME-1 - Negative 
+ On molecular studies, there is no evidence of BRAF, KRAS or NRAS hot spot mutation. The overall findings are consistent with non-invasive follicular thyroid neoplasm with papillary-like nuclear features. The resection margins are clear of tumour cells. 
+ 
+DIAGNOSIS: 
+ THYROID left lobe, hemithyroidectomy: 
+     - NON-INVASIVE FOLLICULAR THYROID NEOPLASM WITH PAPILLARY LIKE NUCLEAR FEATURES. 

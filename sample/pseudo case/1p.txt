@@ -1,0 +1,59 @@
+lF/67Y 
+Date Requested: 03/12/2024 
+ 
+Date Arrived: 03/12/2024 
+ 
+CLINICAL HISTORY: 
+ 
+CA thyroid 
+SPECIMEN(S): 
+  (A) Right thyroid, resection, (B) Left thyroid, resection and (C) Left central compartment lymph node, resection 
+GROSS EXAMINATION: 
+ (A) 'Right thyroid'.  It consists of the right thyroid overall weighing 46 g.  The right lobe measures superoinferiorly 7.5 cm, anteroposteriorly 3.3 cm and mediolaterally 3.0 cm.  The isthmic area measures superoinferiorly 4.5 cm, mediolaterally 0.8 cm and anteroposteriorly 1.0 cm.  A well-circumscribed nodule is noted on the lateral edge in the lower pole with cross sectional area mediolaterally 2.5 cm, anteroposteriorly 2.9 cm and superoinferiorly 2.5 cm.  It is located 0.1 cm away from the lateral margin, 1.1 cm from the isthmic margin, 0.7 cm above the inferior margin and 3.0 cm away from the superior edge.  Another vague nodule is also noted at the superior pole measures 2.1 cm in maximum dimension.  Anterior surface is dyed blue, posterior surface is dyed orange and isthmic margin is further dyed black. 
+ Representative sections are embedded as follows: 
+ (A1)&(A2) Transverse sections. 
+ (A3) Inferior margin. 
+ (A4)-(A6) Anterior margin. 
+ (A7)-(A18) Further sampling of the nodule. 
+ 
+ (B) Designated left thyroid.  It consists of the left thyroid overall weighing 9.5 g and measuring superoinferiorly 4.8 cm, mediolaterally 2.0 cm and anteroposteriorly 2.2 cm.   A firm, whitish nodule is noted in the mid pole on the medial side, near the inferior, with cross sectional area anteroposteriorly 1.2 cm, mediolaterally 1.0 cm and superoinferiorly approximately 1.3 cm. This nodule is fragmented and is semi-detached from the left lobe. Anterior surface is dyed blue, posterior surface is dyed orange and isthmic margin is further dyed black. 
+ Representative sections are embedded as follows: 
+ (B1) Transverse section of the nodule including medial and lateral margins. 
+ (B2) Inferior margin. 
+ (B3) Superior margin. 
+ (B4) Further sampling of the tumour. 
+ (B5) Sampling of uninvolved thyroid. 
+ (C) Designated left central compartment lymph node.  It consists of a well-circumscribed nodule which measures 0.8 x 0.5 x 0.5 cm.  Cut surface is light-yellowish.  Bisected sections are all embedded in 1 block. 
+ 
+MICROSCOPIC EXAMINATION: 
+(A) Sections show follicular adenoma of the thyroid. The tumor is circumscribed and encapsulated with thin fibrous tissue, consisting of follicles of variable sizes. No invasive tumor is present. The lesion is benign completely excised. The background thyroid tissue shows nodular hyperplasia. 
+(B) 
+- Tumor histology: 
+  - The tumor consists of packed follicles of columnar to cuboidal cells with enlarged nuclei. Focally, nuclear gloves are seen. The tumor is partially circumscribed by thick hyalinized fibrous capsule. Invasion into the surrounding thyroid tissue is noted. 
+  - A thyrolipoma is noted (Block B2, see also "C").  The tumor spans 4 mm. It is unencapsulated consisting of clusters of mature, benign adipocytes amount thyroid follicles. 
+- Histologic type: Papillary carcinoma, infiltrative follicular subtype 
+- Mitotic count (per 2 mm2): 
+  - Less than 3 mitoses per 2mm2, specify: <1 per 2 mm2 
+- Tumor focality: Unifocal 
+- Tumor size:  Greatest dimension 13 mm 
+- Tumor necrosis: Not identified 
+- Angionvasion: Not identified 
+- Lymphatic invasion: Not identified 
+- Perineural invasion: Not identified 
+- Extrathyroidal extension: Not identified 
+- Surgical margins: Cannot be assessed 
+  - The tumor nodule appears being completely excised. Assessment is limited by the fragmented nature of the tumor in the main specimen. Focally, the tumor is separated from the surgical margin by thin fibrous tissue (0.6 mm). 
+- Pathologic stage classification (pTNM, AJCC 8th edition): 
+  - Primary tumor (pT): 
+    - pT1b: Tumor > 1 cm but < or = 2 cm, limited to the thyroid 
+(C) Section shows a thyrolipoma. Lobules of benign, mature adipocytes are seen scattered within a nodule of benign thyroid follicles. There is no evidence of malignancy. No lymphoid tissue is present. 
+ 
+DIAGNOSIS: 
+ (A) Right THYROID, excision: 
+ - FOLLICULAR ADENOMA of thyroid. 
+ (B) Left THYROID, excision: 
+ - PAPILLARY CARCINOMA of thyroid, 13 mm; 
+ - surgical margins cannot be assessed; 
+ - a small thyrolipoma. 
+(C) Left central compartment "LYMPH NODE", excision: 
+- THYROLIPOMA. 

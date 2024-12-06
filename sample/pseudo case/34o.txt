@@ -1,0 +1,43 @@
+Sex: F
+Age at Operation: 63y
+
+OT Start on: 11-Apr-2022 at 08:52 OT End on: 11-Apr-2022 at 10:15 Duration: 1 hr 23 min
+
+Pat. Spec.: ECS OT Suite: Ward:
+User Spec.: SRG Div./Team: Endocrine
+Type: Elective Magnitude: Major
+Anaesthesia: GA Blood Loss: Please refer to anaesthesia record
+
+Preoperative Diagnosis:
+Papillary thyroid carcinoma
+
+Operative Diagnosis:
+Cancer of thyroid - right lobe ; papillary carcinoma
+
+Procedure:
+Complete thyroidectomy
+Parathyroid tissue reimplantation
+
+Findings:
+3cm right thyroid cancer with gross extra thyroidal extension to larynx and part of carotid sheath
+RLNs seen and protected; right RLN partly adhered to tumor
+Positive nerve signals after idssection
+Two parathyroids seen on left side' right side not well seen
+
+Procedure Record:
+Primary collar incision
+Subplatysmal flaps
+Strap muscle splitted in midline
+Right lobe of thyroid retracted medially
+Middle thyroid vein ligated and divided
+Superior thyroid vessels doubly ligated and divided
+Recurrent laryngeal nerve identified and safe-guarded
+Individual ligation and division of inferior thyroid vessels
+Dissection of isthmus free from trachea
+Left lobe dealt with similarly
+Recurrent laryngeal nerve identified and safe-guarded
+Total thyroidectomy with isthmus and pyramidal lobe
+Haemostasis and irrigation
+Closure with 3/0 and 4/0 vicryl
+Skin with 4/0 monocryl subcuticular
+Steri-strips

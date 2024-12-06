@@ -1,0 +1,82 @@
+F/67Y  
+Date Requested:   29/08/2024 
+Date Arrived:     29/08/2024 
+ 
+CLINICAL HISTORY: 
+ Left follicular neoplasm 
+ 
+SPECIMEN(S): 
+Final Report 
+  (A) Left thyroid, resection and (B) Right thyroid, resection 
+ 
+GROSS EXAMINATION: 
+ (A) 'Left thyroid'. The specimen is 130 g. It is an enlarged thyroid lobe and measures 8 cm longitudinally, 6 cm transversely and  5 cm anteroposteriorly. The anterior and lateral capsule and posterior capsule looked well defined. Cut surface shows a well-demarcated thinly encapsulated solid tumour measuring up to 5 cm in maximum diameter, involving nearly, the whole thyroid specimen with small amount of normal thyroid tissue near the isthmic resection margin. Grossly there is no invasion seen.  The posterior margin is inked black, Isthmus inked blue, anterior surface inked green. Serially cut from upper to lower ends with 22 blocks taken. 
+ (A1)-(A6) Tumour with upper pole resection margin. 
+ (A7)-(A10) Tumour in upper middle. 
+ (A11)-(A16) Tumour middle portion with isthmus. 
+ (A17)-(A20) Tumour in lower middle. 
+ (A21)&(A22) Tumour in lower pole. 
+ (B) 'Right thyroid'. The weighs of specimen is 14 g. including right lobe with isthmus. The whole lobe measures 5 cm longitudinally, 3 cm transversely and 2.5 cm anteroposteriorly. A stitch is noted at the edge of lateral former. The posterior margin is inked black, Isthmus inked green, anterior surface inked blue. Addition orange dye is added to the stitch area. Serial sections show solid whitish tumour below the stitch. The tumour measures up to 1.2 cm in maximum diameter close to the lateral margin. The remaining blocks show focal colloid nodule less than 1 cm. 6 blocks. 
+ (B1)-(B3) The tumour, all embedded. 
+ (B4)-(B6) Random blocks 
+ 
+MICROSCOPIC EXAMINATION: 
+ (A) Left thyroid, resection : 
+ - Tumor histology : 
+  - The left thyroid tumour is follicular neoplasm. 
+  - It is composed of dominant small follicles. 
+  - The lining cells display increased nuclear to cytoplasmic ratio. 
+  - Capsular invasion is focally noted (A11). 
+  - A few vascular invasion in thin walled vessels are seen in the capsule or pericapsuler thyroid tissue(A3, A8, A17). 
+- Histologic type: Minimally invasive follicular carcinoma 
+- Mitotic count (per 2 mm2): 
+  - Less than 3 mitoses per 2mm2. 
+- Tumor focality: 
+  - Unifocal 
+- Tumor size: 
+  - Greatest dimension (mm): 50 mm 
+- Tumor necrosis: 
+  - Not identified 
+- Angionvasion: Focal (< 4 vessels) 
+- Lymphatic invasion: Not identified 
+- Perineural invasion: Not identified 
+- Extrathyroidal extension: Not identified 
+- Surgical margins: Uninvolved by carcinoma: 0.3 mm from anterior margin. 
+- Pathologic stage classification (pTNM, AJCC 8th edition): 
+  - Primary tumor (pT): 
+    - pT3a: Tumor > 4 cm limited to the thyroid 
+  - Regional lymph nodes (pN): 
+    - pN not assigned (no nodes submitted or found) 
+- Additional pathologic findings: 
+  - Others (specify): Nodular hyperplasia. 
+(B) Right thyroid, resection : 
+- Tumor histology and immunohistochemical studies: 
+  - The right thyroid tumour is papillary carcinoma, close or touching resection margins. 
+- Histologic type: Papillary carcinoma, classic subtype 
+- Mitotic count (per 2 mm2): 
+  - Less than 3 mitoses per 2mm2, specify: 
+- Tumor focality: 
+  - Unifocal 
+- Tumor size: 
+  - Greatest dimension (mm): 11 mm 
+- Tumor necrosis: 
+- Not identified 
+- Angionvasion: Not identified 
+ - Lymphatic invasion: Present 
+ - Perineural invasion: Not identified 
+ - Extrathyroidal extension: Invading perithyroid soft tissue 
+ - Surgical margins: Involved by carcinoma, specify: posterior margin(B2), 
+                Isthmus margin : close and clear by 0.05 mm, 
+                Lateral margin : close and clear by 0.3 mm. 
+ - Pathologic stage classification (pTNM, AJCC 8th edition): 
+   - Primary tumor (pT): 
+     - pT2 (subcategory cannot be determined) 
+   - Regional lymph nodes (pN): 
+     - pN not assigned (no nodes submitted or found) 
+ - Additional pathologic findings: 
+   - Others (specify): Nodular hyperplasia 
+DIAGNOSIS: 
+ (A) Left THYROID, resection : 
+ -  MINIMALLY INVASIVE FOLLICULAR CARCINOMA with clear margins 
+ (B) Right thyroid, resection : 
+ - PAPILLARY CARCINOMA, classic subtype with touched margin. 

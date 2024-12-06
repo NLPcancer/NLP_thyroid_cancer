@@ -1,0 +1,55 @@
+M/39Y 
+Date Requested: 05/01/2023 
+Date Arrived: 05/01/2023 
+ 
+CLINICAL HISTORY: 
+ CA thyroid 
+ 
+SPECIMEN(S): 
+ (A) Left thyroid gland, excision, (B) Right thyroid gland, excision, (C) Left central compartment LN, excision and (D) Left level 2, 3, 4 cervical LN, excision 
+ 
+GROSS EXAMINATION: 
+ (Specimen received in formalin) 
+ (A) Specimen weighs 15 g. It is a left lobe of thyroid measuring 5.4 cm from superior to inferior and 2.5 x 2 cm in transverse dimensions. The isthmus portion measures 2.5 x 1.5 x 1.5 cm. Serial sections show that the isthmus has a well circumscribed, non-encapsulated, white tumor. The tumor measures 1.5 x 0.8 cm. 
+ Specimen partly embedded in 5 blocks. 
+ (A1) Upper pole. 
+ (A2)-(A5) Tumor in isthmus, transverse slices from superior to inferior. 
+ (B) Specimen weighs 11.6 g. It is a right lobe of thyroid measuring 4.4 x 2.5 x 2.8 cm. Serial sections show no focal lesion. Specimen partly embedded in 3 blocks. 
+ (B1) Lower pole. 
+ (B2) Interpolar. 
+ (B3) Upper pole. 
+(C) One piece, yellow, 2 x 1.2 x 0.5 cm. All embedded in 1 block. 
+ (D) Two pieces of lobulated yellow tissue. The larger one measures 7 x 2 x 0.6 cm. 
+ The smaller piece measures 0.6 cm in main dimension. Specimen all embedded in 4 blocks. 
+ 
+MICROSCOPIC EXAMINATION: 
+ (A) 
+ - Tumor histology: 
+ - The tumor cells have large vesicular nuclei with ground glass chromatin. They form small acinar groups, follicles, and infrequently, papillary fronds with psammoma bodies. The stroma shows large areas of hyaline fibrosis. The tumor shows no capsule and the border is infiltrative. 
+ - Histologic type: Papillary carcinoma, infiltrative follicular subtype 
+ - Mitotic count (per 2 mm2): 
+ - Less than 3 mitoses per 2mm2, specify: 0 
+ - Tumor focality: 
+ - Unifocal 
+ - Tumor size: 
+ - Greatest dimension (mm): 12 mm (blocks 3 and 4) 
+ - Tumor necrosis: 
+ - Not identified 
+ - Angionvasion: Not identified 
+ - Lymphatic invasion: Present 
+ - Perineural invasion: Not identified 
+ - Extrathyroidal extension: Not identified 
+ - Surgical margins: Uninvolved by carcinoma, specify location and distance (mm): 0.5 mm, anterior and posterior aspects of isthmus 
+ - Pathologic stage classification (pTNM, AJCC 8th edition): 
+ - Primary tumor (pT): 
+ - pT1b: Tumor > 1 cm but < or = 2 cm, limited to the thyroid 
+ (B) Sections show thyroid tissue containing 2 microscopic foci of papillary carcinoma. Both foci are in block 1 from the lower pole of right thyroid. The larger focus is 0.3 mm in diameter. 
+ (C) The section shows fibroadipose tissue containing 2 small lymph nodes. One of the lymph nodes contains a microscopic focus (0.1 mm diameter) of papillary carcinoma. 
+ There are also two foci of lymphovascular papillary carcinoma in the fibroadipose tissue, the larger focus measures 0.25 mm in diameter. 
+(D) Sections show fibroadipose tissue containing 24 lymph nodes, 3 of which have metastatic papillary carcinoma. No extracapsular extension is seen. The largest metastatic focus measures 4.5 mm in diameter in a lymph node 5.7 mm in main dimension. 
+ 
+DIAGNOSIS: 
+ (A) Left THYROID gland, excision - PAPILLARY CARCINOMA, infiltrative follicular subtype; pT1b. 
+ (B) Right thyroid gland, excision - microscopic foci of PAPILLARY CARCINOMA. 
+ (C) Left central compartment LYMPH NODE, excision - METASTATIC PAPILLARY CARCINOMA 1/2. 
+ (D) Left level 2, 3, 4 cervical LYMPH NODE, excision - METASTATIC PAPILLARY CARCINOMA 3/24. 

@@ -1,0 +1,36 @@
+Sex : F 
+67y 
+ 
+Preoperative Diagnosis: 
+Left follicular neoplasm 
+Operative Diagnosis: 
+Multinodular goitre 
+ 
+Procedure: 
+(*Modifier: ?=Provisional; C=Complications) 
+    Complete thyroidectomy ( HS, NIM ) 
+ 
+Findings: 
+6.5cm left thyroid nodule, FNAC: follicular neoplasm  
+1.4cm right thyroid nodule, FNAC: AUS 
+Left thyroid 135g, right thyroid 14g 
+ 
+Procedure Record: 
+GA, supine 
+Skin prepared and draped 
+Primary collar incision 
+Subplatysmal flaps 
+Strap muscle splitted in midline 
+Left lobe of thyroid retracted medially 
+Middle thyroid vein ligated and divided 
+Superior thyroid vessels doubly ligated and divided  
+Recurrent laryngeal nerve identified and safe-guarded  
+Individual ligation and division of inferior thyroid vessels  
+Dissection of isthmus free from trachea 
+Right lobe dealt with similarly 
+Recurrent laryngeal nerve identified and safe-guarded  
+Total thyroidectomy with isthmus and pyramidal lobe 
+Haemostasis ascertained 
+Closure with 3/0 vicryl and 4/0 vicryl 
+Skin with 4/0 monocryl subcuticular 
+Steri-strips 

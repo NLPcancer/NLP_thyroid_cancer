@@ -1,0 +1,35 @@
+F/24Y  
+Date Requested: 08/08/2024 
+Date Arrived: 08/08/2024 
+ 
+CLINICAL HISTORY: 
+PTC 
+SPECIMEN(S): 
+  Left thyroid, resection 
+GROSS EXAMINATION: 
+ Designated 'Left thyroid'. Received is a lobe of thyroid weighing 8 g. It measures 4.5 cm from superior to inferior, 2.6 cm from medial to lateral and 0.7 cm from anterior to posterior. The pyramidal lobe and isthmus measures 1.1 cm from superior to inferior, 0.8 cm transversely and 0.4 cm from anterior to posterior. The anterior surface is inked with green dye, the posterior surface is inked with black dye and the isthmic margin is inked with orange dye. Sectioning of the thyroid from superior to inferior shows an irregular, firm tan-coloured tumour involving the upper pole measuring 1.5 x 0.5 x 0.8 cm. The tumour encroaches on the anterior and posterior surfaces. No other tumour nodule is identified. Partially embedded in 6 blocks. 
+ (1) Isthmic margin, shaved. 
+ (2) Pyramidal lobe, all embedded. 
+ (3)-(5) Tumour, all embedded. 
+ (6) Middle and lower poles, non-neoplastic thyroid. 
+MICROSCOPIC EXAMINATION: 
+ - Histologic type: Papillary carcinoma, classic subtype 
+ - Tumor histology: 
+   - Tumour cells are arranged in mixed papillary and follicular patterns. The tumour cells show crowded overlapping pale nuclei, some with nuclear grooving and occasional pseudonuclear inclusions. Psammoma bodies are identified in areas. The tumour measures 16 mm in greatest dimension (block 4). One lymph node is sampled near the pyramidal lobe. It shows infiltration by papillary thyroid carcinoma with involvement of the perinodal lymphovascular channels. 
+ - Mitotic count: 1 mitosis per 2mm2 
+ - Tumor necrosis: Not identified 
+ - Angioinvasion: Not identified 
+ - Perineural invasion: Not identified 
+ - Extrathyroidal extension: Not identified 
+ - Surgical margins: 
+   - Anterior margin: Involved by invasive carcinoma (block 5) 
+   - Posterior margin: Clear by less than 0.1 mm (block 5) 
+   - Isthmic margin: Clear 
+ - Pathologic stage classification (pTNM, AJCC 8th edition): 
+   - Primary tumor: pT1b. Tumor > 1 cm but < or = 2 cm, limited to the thyroid 
+ 
+DIAGNOSIS: 
+ Left THYROID, resection 
+ - PAPILLARY THYROID CARCINOMA 
+- Pathologic stage: pT1b (AJCC 8th edition) 
+- Please see details for margin status 

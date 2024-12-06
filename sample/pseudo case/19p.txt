@@ -1,0 +1,42 @@
+F/23Y  
+Date Requested:   18/07/2024 
+Date Arrived:     18/07/2024 
+ 
+CLINICAL HISTORY: 
+ Left thyroid nodule 
+SPECIMEN(S): 
+ Left thyroid, resection 
+ 
+GROSS EXAMINATION: 
+Final Report 
+ 'Left thyroid'. The specimen consists of the left thyroid gland weighing 18 g. It measures 3.5 cm from medial to lateral, 4 cm from superior to inferior and 2.6 cm from anterior to posterior. The posterior is painted black and the anterior is painted blue. Serial sections show a greyish white nodule 1 cm diameter near the lower pole with inferior and posterior margin of 4 mm. The nodule is 1.5 cm from the isthmus. 
+(1) Isthmic resection margin, shaved. 
+(2) Two perpendicular lateral margins. 
+(3)-(7) Longitudinal sections of nodule from isthmus to lateral, all embedded. 
+(8) Section of isthmus. 
+ 
+MICROSCOPIC EXAMINATION: 
+ - Tumor histology: 
+   - Sections of the macroscopically identified nodule show thyroid follicles of variable sizes consistent with hyperplastic nodule. In addition, irregular nodular aggregates of closely packed papillae and glandular structures are present in association with desmoplastic stroma (4, 7). The structures are lined by columnar cells with clear nuclei and nuclear grooving are found. Mitotic figures are present. 
+ Such aggregate partially surrounded by a rim of hyalinized fibrotic tissue which is focally permeated by the carcinoma. Psammoma bodies are focally noted.  The features are consistent with papillary carcinoma. 
+ - Histologic type: Papillary carcinoma, classic subtype 
+ - Mitotic count (per 2 mm2): 
+   - Less than 3 mitoses per 2mm2, specify: 
+ - Tumor focality: 
+   - Unifocal 
+ - Tumor size: 
+   - Greatest dimension (mm): 2mm 
+ - Tumor necrosis: 
+   - Not identified 
+ - Angionvasion: Not identified 
+ - Lymphatic invasion: Not identified 
+ - Extrathyroidal extension: Not identified 
+ - Surgical margins: Uninvolved by carcinoma, closest 3mm from anterior margin. 
+ - Additional notes: 
+   - The remaining sampled thyroid tissue shows thyroid follicles of variable sizes and filled with colloid. One lymph node is sampled and shows no evidence of malignancy. 
+ 
+DIAGNOSIS: 
+ Left THYROID, resection 
+ - PAPILLARY CARCINOMA 
+ - NODULAR HYPERPLASIA 
+ (Please see Microscopic Examination) 

@@ -1,0 +1,47 @@
+F/63Y 
+Date Requested: 21/01/2023 
+Date Arrived: 21/01/2023 
+ 
+CLINICAL HISTORY: 
+ CA thyroid 
+ 
+SPECIMEN(S): 
+ Right thyroid, resection 
+ 
+GROSS EXAMINATION: 
+ 'Right thyroid' for section. Received is a right hemithyroidectomy specimen measuring 4 cm from superior to inferior, 3.2 cm from medial to lateral and 1.2 cm from anterior to posterior. The specimen was previously cut open over the anterior side. The specimen weighs 9.7 g. Anterior side is inked green and posterior side is inked blue. Sectioning shows the vague whitish nodule measuring 0.8 x 0.6 x 0.5 cm, mainly at the middle lobe. It measures 1.7 cm away from the isthmic margin. No other nodule is grossly identified. 5 blocks. 
+ (1) Isthmic margin, shaved. 
+ (2)-(4) Vague whitish nodule. ((2)-(3) 1 complete slab) 
+ (5) Background thyroid tissue. 
+ 
+MICROSCOPIC EXAMINATION: 
+ - Tumor histology and immunohistochemical studies: 
+ - Section shows tumour cells arranged in follicles and some papillae. The tumour cells show nuclear overlapping, nuclear chromatin clearing and nuclear grooves. 
+ Nuclear pseudoinclusion is also noted. It is within a sclerotic background. 
+ - Histologic type: Papillary carcinoma, classic subtype 
+ - Mitotic count (per 2 mm2): 
+ - Less than 3 mitoses per 2mm2 
+ - Tumor focality: 
+ - Unifocal 
+ - Tumor size: 
+ - Greatest dimension (mm): 7 mm (microscopical dimension) 
+ - Tumor necrosis: 
+ - Not identified 
+ - Angionvasion: Not identified 
+ - Lymphatic invasion: Not identified 
+ - Extrathyroidal extension: Not identified 
+ - Surgical margins: Uninvolved by carcinoma, specify location and distance (mm): 
+ Anterior: 1.5 mm 
+ Posterior: 7 mm 
+ Isthmic margin(shaved): not involved 
+ - Pathologic stage classification (pTNM, AJCC 8th edition): 
+ - Primary tumor (pT): 
+ - pT1a: Tumor < or = 1 cm, limited to the thyroid 
+ - Additional notes: 
+ - A background hyperplastic nodule is also seen 
+ 
+DIAGNOSIS: 
+ THYROID, Right thyroid, hemithyroidectomy: 
+ - PAPILLARY THYROID CARCINOMA 
+ - TNM staging pT1a (AJCC 8th edition) 
+ - Resection margins not involved 
