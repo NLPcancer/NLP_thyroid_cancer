@@ -16,6 +16,9 @@ This page is to provide the technical details for the article "Developing named 
 * [Classification of risk and cancer staging](#classification-of-risk-and-cancer-staging)
 
 ## Requirement
+
+To get started, install BRAT rapid annotation tool, Ollama, download the required LLMs, and set up Python libraries as described below.
+
 ### BRAT rapid annotation tool
 Download and install BRAT rapid annotation tool (<a href="https://brat.nlplab.org/installation.html">link</a>).
 
