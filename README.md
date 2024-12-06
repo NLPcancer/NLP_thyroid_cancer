@@ -83,7 +83,7 @@ To run the script (e.g. zero-shot prompting), simply run:
 python zeroshot.py
 ```
 
-After data extraction, a CSV file named 'output.csv' will be created in the resposity.
+After data extraction, a CSV file named 'output.csv' will be created in the repository.
 
 ## Classification of risk and cancer staging
 The templates of the pre-written classification rules could be found in the folder "classification".
