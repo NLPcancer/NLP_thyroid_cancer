@@ -1,0 +1,54 @@
+Final Report
+
+CLINICAL HISTORY:
+Ca thyroid
+
+SPECIMEN(S):
+(A) Lymph node, left lateral level II, III, IV, resection. (B) Right thyroid, resection and (C) Left thyroid, resection
+
+GROSS EXAMINATION:
+(Specimen received in formalin)
+(A) It consists of a piece of fibroadipose tissue 10 x 5 x 1.5 cm in dimension. No specimen orientation is given. There are multiple hard nodules, the largest of which is cord-shaped and measures 5.5 cm long, up to 1.2 cm in diameter. One complete longitudinal slab along the the cord-like structure is sampled and embedded in block (A1) to (A3). Block (A4) to (A13) each contains bisected tissue. All nodules are embedded and specimen is partly embedded in 13 blocks.
+
+(B) Specimen is labeled right thyroid. It measures 4.5 x 2.5 x 2 cm. Sectioning shows a 4 mm nodule in the inferior pole, around 3 mm from the inferior resection margin. The posterior surface is painted blue, the anteromedial surface is painted yellow and the anterolateral surface is painted green.
+
+(B1)&(B2) Superior pole.
+(B3)&(B4) Transverse section, mid pole.
+(B5)&(B6) Tumour in inferior pole.
+Specimen is partly embedded in 6 blocks.
+
+(C) Specimen is labeled left thyroid. It measures 5 cm longitudinally, 3.5 cm transversely and 2.8 cm anteroposteriorly. The pyramidal lobe is included which measures 2.5 x 0.5 x 0.5 cm. A hard nodular mass is palpable in the inferior pole. Sectioning shows irregular tumour tissue and multiple minute peripheral nodules within the thyroid parenchyma. The major tumour nodule measures 2.5 cm in diameter and shows coarse calcification at the periphery. The posterior surface is painted blue, the anteromedial surface yellow and the anterolateral surface green.
+
+(C1) Pyramidal lobe.
+(C2) Superior pole including the resection margin.
+(C3)&(C4) Transverse section of upper mid pole.
+(C5) Transverse section with calcification, embedded after decalcification.
+(C6)-(C12) Inferior pole, perpendicular block, embedded after decalcification.
+
+MICROSCOPIC EXAMINATION:
+(A) Sections show 35 lymph nodes. 7 of which show metastatic papillary carcinoma. One lymph node contains large areas of infarcted tumour. Extracapsular spread is noted focally.
+
+(B) The right thyroid shows a metastatic papillary carcinoma measuring 4 mm in diameter, with 2.75 mm clearance from the lower pole resection margin. It has a similar appearance as the tumour in the left thyroid. No lymphovascular spread is detected.
+
+(C) Sections show multiple poorly demarcated tumour nodules in the thyroid, featuring closely packed or arborizing papillary architecture and solid nests of tumour cells in sclerotic stroma. The tumour cells are columnar with grooved nuclei, irregular nuclear outline, pale chromatin, occasional pseudonuclear inclusions and abundant cytoplasm. Many tumour areas have a tall cell appearance with height to width ratio of 3 or higher. Irregular calcospherites and psammoma bodies are found frequently. There are multiple satellite tumour nodules around the main tumour, with some being present in extrathyroidal adipose tissue. The thyroid capsule is involved particularly in the anterior aspect of the inferior pole.
+
+- Mitotic count (per 2 mm2): <1 per 2 mm square
+- Lymphatic invasion: Present
+- Perineural invasion: Not identified
+
+The surgical margins are as follows:
+Superior: 1.7 mm clearance
+Inferior: Tumour present in extrathyroidal adipose tissue (C12) and involves the cauterized margin of antero-inferior pole (C12)
+Anteromedial: Tumour reaches capsule but margin not involved: 0.18 mm clearance (C4)
+Anterolateral: Tumour lymphovascular permeation involving extra-thyroidal adipose tissue (C5): 0.55 mm clearance (C4)
+Posterior: 0.83 mm (C3)
+
+DIAGNOSIS:
+(A) LYMPH NODE, left lateral level II, III, IV, resection: METASTATIC PAPILLARY CARCINOMA, extracapsular spread present:
+
+(B) Right thyroid, resection: Involvement by PAPILLARY CARCINOMA, tall cell variant (4 mm):
+
+(C) Left THYROID, resection:
+- PAPILLARY THYROID CARCINOMA, tall cell variant, multiple satellite tumour nodules:
+- Cauterized margin at antero-inferior pole involved by tumour:
+- Lymphovascular invasion.

@@ -1,0 +1,32 @@
+F/70Y  
+
+CLINICAL HISTORY: 
+ Right thyroid nodule 
+SPECIMEN(S): 
+ Right thyroid, resection 
+GROSS EXAMINATION: 
+Final Report 
+  Labelled 'Right thyroid'. Received is right lobe weighing 37.9 g and measuring 4 cm transversely, 5 cm superoinferiorly and up to 4 cm anteroposteriorly. The isthmic margin is inked blue, posterior surface inked green, and anterior surface inked yellow. Serial sectioning in the axial plane shows two encapsulated nodules, which appear separate from each other. The larger one measures 5 cm in greatest dimension, occupying nearly the entire right lobe. The smaller one measures 3 cm in diameter and is a pedunculated nodule arising in the middle segment. 13 representative blocks are taken. 
+ (1)-(9) Larger nodule, all embedded [(6) Interface between two nodules]. 
+ (10)-(13) Pedunculated nodule, all embedded. 
+ 
+MICROSCOPIC EXAMINATION: 
+ - Tumor histology: Sections of both nodules show a thinly encapsulated tumor composed of microfollicles with scant colloid. The follicles are lined by uniform follicular cells without nuclear features of papillary thyroid carcinoma. The tumor shows focal penetration through the thin fibrous capsule (e.g. blocks 9, 10 & 13). 
+ Angioinvasion is not observed. 
+ - Histologic type: Minimally invasive follicular carcinoma 
+ - Mitotic count (per 2 mm2): Greater than or equal to 3 but less than 5 mitoses per 2 mm2, specify: 4 (block 4) 
+ - Ki67 labeling index: < 5% 
+ - Tumor focality: Two foci 
+ - Tumor size: Greatest dimension: 50 mm and 30 mm respectively 
+ - Tumor necrosis: Not identified 
+ - Angioinvasion: Not identified 
+ - Lymphatic invasion: Not identified 
+ - Perineural invasion: Not identified 
+ - Extrathyroidal extension: Not identified 
+ - Surgical margins: Uninvolved by carcinoma 
+ - Pathologic stage classification (AJCC 8th edition): 
+   - TNM Descriptors: m (multiple primary tumors) 
+   - Primary tumor (pT): pT3a: Tumor > 4 cm limited to the thyroid 
+DIAGNOSIS: 
+ Right THYROID, resection: 
+ - MINIMALLY INVASIVE FOLLICULAR CARCINOMA 

@@ -1,0 +1,25 @@
+M/42Y 
+ 
+CLINICAL HISTORY: 
+ CA thyroid 
+ 
+SPECIMEN(S): 
+ Left thyroid, resection 
+ 
+GROSS EXAMINATION: 
+ (Specimen received in formalin) 
+ Specimen is labelled 'Left thyroid'. Specimen consists of the left lobe of a thyroid gland 12.8 g, measuring 4 x 3 x 1.5 cm. Serial sectioning shows a well-circumscribed solid tan nodule in its upper to mid lobe part. The nodule is ~1 cm in maximum dimension. The rest of the thyroid tissue appear unremarkable. Nodule all embedded in 2 blocks. 
+ 
+MICROSCOPIC EXAMINATION: 
+ - Histological type 
+ - Papillary carcinoma: Classic (usual, conventional) 
+ - Tumour focality: Unifocal 
+ - Tumour capsule invasion: Absent 
+ - Angioinvasion: Absent 
+ - Lymphatic invasion: Absent 
+ - Extrathyroidal extension: Absent 
+ - Primary tumour staging: pT1b: Tumour 11 mm, limited to the thyroid 
+ - Resection margins: Clear, 1 mm from the peri-thyroid soft tissue margin 
+ 
+DIAGNOSIS: 
+ Left THYROID, resection - PAPILLARY CARCINOMA. 

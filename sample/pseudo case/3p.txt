@@ -1,0 +1,34 @@
+Final Report
+ 
+MICROSCOPIC EXAMINATION: 
+ - Histologic type: Papillary carcinoma, infiltrative follicular subtype 
+ - Mitotic count (per 2 mm2): Less than 3 mitoses per 2mm2 
+ - Tumor focality: Multifocal 
+ - Tumor size: 8 and 2 mm 
+ - Tumor necrosis: Not identified 
+ - Angionvasion: Not identified 
+ - Lymphatic invasion: Not identified 
+ - Perineural invasion: Not identified 
+ - Extrathyroidal extension: Microscopic invasive of the surrounding fat at the 2 mm tumor nodule. No gross invasion was detected. No involvement of skeletal muscle bundles is detected. 
+ - Surgical margins: Uninvolved by carcinoma 
+ - Lymph nodes examination: 
+   - Number of lymph nodes involved : 1/5. 
+   - Extranodal extension (ENE) : Not identified 
+   - Size of largest metastatic deposit : 1 mm 
+   - Size of largest lymph node involved: 1 mm 
+ - Distant metastasis: Not applicable 
+ - Pathologic stage classification (pTNM, AJCC 8th edition): 
+   - TNM Descriptors: 
+      m (multiple primary tumors) 
+   - Primary tumor (pT): 
+     - pT1a: Tumor < or = 1 cm, limited to the thyroid 
+   - Regional lymph nodes (pN): 
+     - pN1a: Metastasis to regional nodes 
+ - Additional pathologic findings: 
+   - Lymphocytic thyroiditis 
+DIAGNOSIS: 
+ Thyroid gland, right hemithyroidectomy: 
+    - Papillary thyroid carcinoma (8 mm & 2 mm); 
+    - Lymphocytic thyroiditis. 
+COMMENTS: 
+Report supplemented to add pathological staging and to clarify that the extra-thyroid extension of the tumor is only microscopic and not involving any skeletal muscle. Diagnosis was note changed. 

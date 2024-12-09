@@ -1,0 +1,63 @@
+F/55Y  
+
+CLINICAL HISTORY: 
+CA thyroid 
+SPECIMEN(S): 
+  (A) Right thyroid, resection, (B) Left thyroid, resection, (C) Right central compartment lymph node, resection 
+GROSS EXAMINATION: 
+ (A) 'Right thyroid'.  Received is a lobe of thyroid weighing 12 g and measuring 4.2 cm superoinferiorly, 3.5 cm mediolaterally and 1.7 cm anteroposteriorly. The anterior, lateral and posterior margins are inked green, blue and black respectively.  Serial sectioning shows a circumscribed whitish firm tumour at upper and middle pole, measuring 3 cm superoinferiorly, 2 cm mediolaterally and 1.6 cm anteroposteriorly. Focally it extends to the anterior, posterior and lateral margins. It is 1 cm away from isthmic margin. A 0.3 cm lesional area is seen at lower pole.  
+ 
+6 representative blocks. 
+ (A1) Shaved isthmic margin. 
+ (A2)-(A5) Tumour slab. 
+ (A6) Lower pole and the all embedded 0.3 cm lesional area. 
+ (B) 'Left thyroid'.  Received is a lobe of thyroid weighing 5.6 g and measuring 4 cm  superoinferiorly, 2.4 cm mediolaterally and 1 cm anteroposteriorly. The anterior, lateral and posterior margins are inked green, blue and black respectively. 
+ Serially sectioning shows a 0.5 x 0.5 cm cystic nodule with reddish cut surface at upper pole.  At lower pole, there is a 0.5 x 0.4 cm firm nodule.  4 representative blocks. 
+ (B1) Shaved isthmic border. 
+ (B2) Upper pole and the cystic lesion. 
+ (B3) Middle pole. 
+ (B4) Lower pole and the all embedded calcified nodule. 
+ (C) 'Right central compartment lymph node'.  Received is a piece of fatty tissue measuring 1.5 x 0.5 x 0.5 cm.  The surface of the specimen is inked green.  Bisected and all embedded in 1 block. 
+ 
+MICROSCOPIC EXAMINATION: 
+(A) 
+- Tumor histology and immunohistochemical studies: 
+  - Sections of the tumour feature papillary thyroid carcinoma. It composes of infiltrative papillae or irregular follicles. The tumour cells possess overlapping and optically clear nuclei, vesicular chromatin and nuclear grooves. Pseudonuclear inclusions are seen. 
+The lower pole lesional area features sclerosis and follicles of variable size. They are lined by epithelial cells displaying oncocytic changes. 
+- Histologic type: Papillary carcinoma, classic subtype 
+- Mitotic count (per 2 mm2): Less than 3 mitoses per 2mm2, 2 per 2mm2 
+- Tumor focality: Unifocal 
+- Tumor size: Greatest dimension (mm): 30 mm (Macroscopic) 
+- Tumor necrosis: Not identified 
+- Angionvasion: Not identified 
+- Lymphatic invasion: Present (Block A3) 
+- Extrathyroidal extension: Invading only strap muscles (Please correlate with operation record for gross extrathyroidal extension) 
+- Margin status: 
+Anterior margin : 0.3 mm (Block A5) 
+Posterior margin: involved by carcinoma (Block A3) 
+Lateral margin  : less than 0.1 mm (Block A5) 
+Isthmic margin  : More than 10 mm (Macroscopic) 
+- Lymph nodes examination: 
+  - Number of regional lymph nodes involved at level VI: 4 out of total of 4 
+  - Extranodal extension (ENE) : Not identified 
+- Pathologic stage classification (pTNM, AJCC 8th edition): 
+  - Primary tumor (pT): 
+    - pT4a: Gross extrathyroidal extension invading cricothyroid/inferior constrictor
+  - Regional lymph nodes (pN): 
+    - pN1a: Metastasis to level VI or VII (pretracheal, paratracheal, or prelaryngeal/Delphian, or upper mediastinal) lymph nodes. 
+      This can be unilateral or bilateral disease 
+(B) Sections show thyroid follicular nodular disease (nodular hyperplasia). The parenchyma exhibits an accentuation in nodularity with dominant nodules. 
+Degenerative changes including fibrosis, cholesterol clefts, islands of siderophages are identified. Nuclear features of papillary thyroid carcinoma and well defined encapsulated follicular neoplasm are not detected. There is no evidence of malignancy. 
+A parathyroid gland is included (Block B4) with no evidence of malignancy. 
+ 
+(C) Section shows 4 lymph nodes, all infiltrated by metastatic papillary thyroid carcinoma with morphology similar to (A). No extranodal extension is seen. 
+ 
+DIAGNOSIS: 
+ (A) Right THYROID, resection: 
+ - PAPILLARY THYROID CARCINOMA 
+ - TNM staging pT4apN1a (AJCC 8th edition) 
+ - Please see description for margin status 
+ (B) Left THYROID, resection: 
+ - NODULAR HYPERPLASIA 
+ (C) Right central compartment LYMPH NODE, resection: 
+ - METASTATIC CARCINOMA (4/4) 

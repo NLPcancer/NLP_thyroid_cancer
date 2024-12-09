@@ -1,0 +1,47 @@
+F/50Y 
+ 
+CLINICAL HISTORY: 
+ CA thyroid 
+ 
+SPECIMEN(S): 
+ Left thyroid, resection 
+ 
+GROSS EXAMINATION: 
+ Designated 'Left thyroid'. The lobe of thyroid weighs 11 g and measures 4.5 cm superoinferiorly, 3.5 cm mediolaterally and up to 1.5 cm anteroposteriorly. The isthmus measures 1 x 0.8 x 0.2 cm. The thyroid has been incised in the middle pole transversely upon receipt, revealing a whitish fibrotic tumour nodule measuring 1 x 1 x 1 cm. The tumour is more than 2 cm away from the superior pole and more than 1 cm away from the inferior pole. 
+ The surfaces are inked as follows: 
+ Anterior - blue 
+ Posterior - green 
+ Lateral - orange 
+ Representative sections are embedded in 5 blocks. The tumor is all embedded. 
+ (1) Isthmic margin, shaved. 
+ (2) Largest dimension of tumour. 
+ (3)&(4) Other tumour blocks. 
+ (5) Non-neoplastic thyroid. 
+ 
+MICROSCOPIC EXAMINATION: 
+ - Tumor histology and immunohistochemical studies: 
+ - Sections of the thyroid show a papillary thyroid carcinoma (PTC) measuring 10 mm in greatest dimension (Block 2). The tumor is partially encapsulated, while in other areas have an invasive front. Papillary and follicular structures are seen. The tumor cells have nuclear crowding and overlapping, nuclear membrane irregularities, nuclear grooves, nuclear pseudoinclusions and pale chromatin. Mitotic figures are counted at less than 1 per 2mm2. There is no tumor necrosis. The stroma is sclerotic. 
+ - Histologic type : Papillary carcinoma, classic subtype 
+ - Mitotic count (per 2 mm2): Less than 3 mitoses per 2mm2, specify: Less than 1 
+ - Tumor focality : Unifocal 
+ - Tumor size : Greatest dimension (mm): 10 mm 
+ - Tumor necrosis : Not identified 
+ - Angionvasion : Not identified 
+ - Lymphatic invasion : Not identified 
+ - Extrathyroidal extension : Not identified 
+ - Surgical margins: 
+ - The anterior, posterior and lateral surfaces are clear by 0.4 mm, 0.9 mm and 1.5 mm respectively (Block 2). The superior and inferior surfaces are grossly well clear. 
+ - The isthmic margin is clear (Block 1). 
+ - Lymph nodes examination: 
+ - Number of regional lymph nodes involved at level VI: 0 out of total of 1 (Block 1) 
+ - Pathologic stage classification (pTNM, AJCC 8th edition): 
+ - Primary tumor (pT): 
+ - pT1a: Tumor < or = 1 cm, limited to the thyroid 
+ - Additional notes: 
+ - The background thyroid shows a hyperplastic nodule. Patchy stromal lymphocytic infiltrates are noted. 
+ 
+DIAGNOSIS: 
+ THYROID, Left thyroid, resection: 
+ - PAPILLARY THYROID CARCINOMA, classic subtype. 
+ - pT1a (AJCC 8th edition). 
+ - Please see text for details. 
