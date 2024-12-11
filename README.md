@@ -62,7 +62,7 @@ Eight prompting strategies have been proposed, and their corresponding file name
 | Prompting strategies  | File name |
 | ------------- | ------------- |
 | Zero-shot prompting  | zeroshot.py  |
-| COT prompting | cot.py |
+| Zero-shot COT prompting | zeroshot_cot.py |
 | Few-shot prompting with all annotated data  | fewshot_all_data.py  |
 | Few-shot prompting with non-repeated annotated data  | fewshot_trim_data.py  |
 | Few-shot prompting with part of annotated data  | fewshot_part_data.py  |
