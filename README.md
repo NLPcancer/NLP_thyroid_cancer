@@ -17,7 +17,7 @@ This page is to provide the technical details for the article "Developing named 
 
 ## Requirement
 
-To get started, install BRAT rapid annotation tool, Ollama, download the required LLMs, and set up Python libraries as described below.
+To get started, install BRAT rapid annotation tool (for annotation), Ollama, download the required LLMs (for information extraction), and set up Python libraries as described below.
 
 ### BRAT rapid annotation tool
 Download and install BRAT rapid annotation tool (<a href="https://brat.nlplab.org/installation.html">link</a>).
@@ -48,7 +48,7 @@ The TCGA pathology reports (50 for development of different prompting strategies
 The operation records and pathology reports for 35 pseudo cases (for validation within local public clinical setting) could be found in the folder "sample".
 
 ## Data Annotation
-The annotation guideline was co-developed by endocrine surgeons and NLP expert, and could be found in the folder "annotation".
+The annotation guideline was co-developed by endocrine surgeons, clinical oncologist and NLP expert, and could be found in the folder "annotation".
 
 Data annotation was performed by two independent annotators, who have experiences in clinical research.
 The annotation was conducted by using BRAT rapid annotation tool (<a href="https://brat.nlplab.org/">link</a>).
@@ -70,7 +70,7 @@ Eight prompting strategies have been proposed, and their corresponding file name
 | COT and few-shot prompting with non-repeated annotated data  | cot_fewshot_trim_data.py  |
 | COT and few-shot prompting with part of annotated data  | cot_fewshot_part_data.py  |
 
-By default, Gemma 2 9B Instruct model is demonstrated in the scripts.
+By default, Gemma 2 9B Instruct model was demonstrated in the scripts.
 
 Any model could be chosen by changing the model name in the script file.
 ```sh
