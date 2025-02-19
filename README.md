@@ -1,5 +1,5 @@
 # Developing named entity framework for thyroid cancer staging and risk level classification using large language models
-This page is to provide the technical details for the article "Developing named entity framework for thyroid cancer staging and risk level classification using large language models", which aims to provide a named-entitly framework about development of annotation guideline, conducting data annotation, ground-truth labelling, extraction disease information using open source Large Language Models (LLMs) by using different types of prompt strategies and classify ATA risk and AJCC 8<sup>th</sup> edition cancer staging using pre-written classification rules. The named-entity framework is evaluated by using different LLM strategies with ensemble-like majority voting approach.
+This page is to provide the technical details for the article "Developing named entity framework for thyroid cancer staging and risk level classification using large language models", which aims to provide a named entitly framework about development of annotation guideline, conducting data annotation, ground-truth labelling, extraction disease information using open source Large Language Models (LLMs) by using different types of prompt strategies and classify ATA risk and AJCC 8<sup>th</sup> edition cancer staging using pre-written classification rules. The named entity framework is evaluated by using different LLM strategies with ensemble-like majority voting approach.
 
 ![alt text](image/flow.jpg)
 
@@ -43,12 +43,12 @@ pip install -r requirements.txt
 ```
 
 ## Data source
-The TCGA pathology reports (50 for developing different prompting strategies and 289 for validation) could be found in the Genomic Data Commons data portal of National Cancer Institute (<a href="https://portal.gdc.cancer.gov/projects/TCGA-THCA">link</a>).
+The TCGA pathology reports (50 for development of different prompting strategies and 289 for validation) could be found in the Genomic Data Commons data portal of National Cancer Institute (<a href="https://portal.gdc.cancer.gov/projects/TCGA-THCA">link</a>).
 
-The operation records and pathology reports for 35 pseudo cases (for validation in local public clinical setting) could be found in the folder "sample".
+The operation records and pathology reports for 35 pseudo cases (for validation within local public clinical setting) could be found in the folder "sample".
 
 ## Data Annotation
-The annotation guideline was co-developed by endocrine surgeons and researchers, and could be found in the folder "annotation".
+The annotation guideline was co-developed by endocrine surgeons and NLP expert, and could be found in the folder "annotation".
 
 Data annotation was performed by two independent annotators, who have experiences in clinical research.
 The annotation was conducted by using BRAT rapid annotation tool (<a href="https://brat.nlplab.org/">link</a>).
@@ -56,7 +56,7 @@ The annotation was conducted by using BRAT rapid annotation tool (<a href="https
 A step-by-step guide for data annotation is provided in the folder "annotation".
 
 ## Data extraction
-The Python scripts for extraction of disease information from clinical notes could be found in the folder "scripts".
+The Python scripts for extraction of disease information from clinical notes via offline LLMs could be found in the folder "scripts".
 
 Eight prompting strategies have been proposed, and their corresponding file names of the script are as follow:
 | Prompting strategies  | File name |
